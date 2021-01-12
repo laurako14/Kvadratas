@@ -45,7 +45,7 @@ public class Kvadratas {
 
         int[][] rez = new int[m.length][m.length];
         
-        int f = 5;
+        int f = m.length;
         for (int a = 0; a < m.length; a++) {
             rez[a] = new int[m.length];
             for (int b = 0; b < m.length - f; b++) {
