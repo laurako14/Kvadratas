@@ -67,6 +67,11 @@ public class Kvadratas {
             System.out.println();
         }
 
+        
+//        for (int i = 0; i < m.length; i++) {
+//            for (int j = 0; j < m.length; j++ {
+//              rez[i][j] = m[(i+j) % m.length];
+//                rez[i][(i+j) % m.length] = m[j]; }}
     }
 
 }
